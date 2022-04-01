@@ -13,6 +13,9 @@ I've always had creative ideas, I honestly thought about going into graphic desi
 
 HTML, CSS and JavaScript.
 
+### 🔭 I’m currently working on:
+
+A Section challenge from Dribble. 
 
 ### 📫 How to reach me: 
 

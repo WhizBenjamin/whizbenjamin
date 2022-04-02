@@ -31,6 +31,11 @@ Via Twitter: https://twitter.com/Kun_Benjamin
 <br>
 Via Mail: kunwhizben@gmail.com
 
+### ⚡ Fun fact:
+
+I am a big fan of Arsenal FC and I enjoy reading books, gaming and watching anime.... Ssssh 😶 
+
+
 <!--
 **WhizBenjamin/whizbenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

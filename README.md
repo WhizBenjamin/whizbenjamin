@@ -15,9 +15,9 @@ HTML, CSS and JavaScript.
 
 ### 🔭 I’m currently working on:
 
-Figma Challenge 
+A challenge from Figma
 <br>
-A Responsive homepage with desktop, tablet and mobile version using just HTML and CSS. 
+It is a responsive homepage with desktop, tablet and mobile version using just HTML and CSS. 
 
 ### 🤔 I’m looking for help with:
 

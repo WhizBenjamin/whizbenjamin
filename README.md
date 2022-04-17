@@ -15,9 +15,9 @@ HTML, CSS and JavaScript.
 
 ### 🔭 I’m currently working on:
 
-A Section challenge from Dribble. 
+Figma Challenge 
 <br>
-It's basically a landing page for reviews but I've found it somewhat challenging and got stuck. Anyway, I've gotten some advise and I am researching ways to tackle the problem. Sure would be exciting when I finish this project. 
+A Responsive homepage with desktop, tablet and mobile version using just HTML and CSS. 
 
 ### 🤔 I’m looking for help with:
 

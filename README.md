@@ -17,8 +17,8 @@ HTML, CSS and JavaScript.
 
 A challenge from Figma
 <br>
-It is a responsive homepage with desktop, tablet and mobile version using just HTML and CSS. 
-(Currently done with the desktop and tablet versions) 😅
+It is a responsive homepage with desktop, tablet and mobile version using just HTML, CSS and a touch of JavaScript.
+(Currently done with the desktop and tablet versions) It's sure been an interesting ride thus far. 😅
 
 ### 🤔 I’m looking for help with:
 

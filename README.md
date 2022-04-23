@@ -34,7 +34,7 @@ Via Mail: kunwhizben@gmail.com
 
 ### ⚡ Fun fact:
 
-I am a big fan of Arsenal FC and I enjoy reading books, gaming and watching animes.... ssssh 😶😉 
+I am a big fan of Arsenal FC and I enjoy reading books, cooking, gaming and watching animes.... ssssh 😶😉 
 
 
 <!--

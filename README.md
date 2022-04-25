@@ -19,6 +19,10 @@ A challenge from Figma
 <br>
 It is a responsive homepage with desktop, tablet and mobile version using just HTML, CSS and a touch of JavaScript.
 (Currently done with the desktop and tablet versions) It's sure been an interesting ride thus far. 😅
+<br>
+<br>
+And a challenge from Dribble
+Just a simple landing page for a social proof section. 
 
 ### 🤔 I’m looking for help with:
 

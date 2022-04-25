@@ -22,7 +22,13 @@ It is a responsive homepage with desktop, tablet and mobile version using just H
 <br>
 <br>
 And a challenge from Dribble
+<br>
 Just a simple landing page for a social proof section. 
+<br>
+I actually started the Dribble challenge even before the one from Figma but the downside
+of doing the Dribble challenge is that I do not have a premium account, so, it didn't give me all
+the details I needed. I've made mistakes time and over again but this is a challenge I want to complete 
+and be like "yeah, I did it! 🤓" - cause I'm not one to back off from a challenge after getting it started. 
 
 ### 🤔 I’m looking for help with:
 

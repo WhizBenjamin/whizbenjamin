@@ -11,28 +11,15 @@ I've always had creative ideas, I honestly thought about going into graphic desi
 
 ### 🌱 I’m currently learning:
 
-HTML, CSS and JavaScript.
+JavaScript.
 
 ### 🔭 I’m currently working on:
 
-A challenge from Figma
+A challenge from Dribble
 <br>
-It is a responsive homepage with desktop, tablet and mobile version using just HTML, CSS and a touch of JavaScript.
-(Currently done with the desktop and tablet versions) It's sure been an interesting ride thus far. 😅
+Done with the desktop landing page version. 
 <br>
-<br>
-<br>
-And a challenge from Dribble
-<br>
-Just a simple landing page for a social proof section. 
-<br>
-I actually started the Dribble challenge even before the one from Figma but the downside
-of doing the Dribble challenge is that I do not have a premium account, so, it didn't give me all
-the details I needed. I've made mistakes time and over again but this is a challenge I want to complete 
-and be like "yeah, I did it! 🤓" - cause I'm not one to back off from a challenge after getting it started. 
-<br>
-<br>
-Almost done with both challenges. Now styling mobile versions for both the Dribble and Figma challenges. 
+Now styling mobile version. 
 
 ### 🤔 I’m looking for help with:
 

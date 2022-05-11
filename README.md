@@ -11,11 +11,11 @@ I've always had creative ideas, I honestly thought about going into graphic desi
 
 ### 🌱 I’m currently learning:
 
-JavaScript.
+JavaScript
 
 ### 🔭 I’m currently working on:
 
-A challenge from Dribble
+A challenge from Dribble. 
 <br>
 Done with the desktop landing page version. 
 <br>

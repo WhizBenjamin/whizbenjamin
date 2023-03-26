@@ -8,6 +8,10 @@ Well, I am still enroute to learning the art of web designing and this is me in 
 ### 👨‍💻 Design & Development
 
 I've always had creative ideas, I honestly thought about going into graphic design but I found love at first site with programming and hey, who says I can't bring out my creativity here?
+<br>
+1. HTML5 ✔
+2. CSS ✔
+3. Javascript 🔜🔃
 
 ### 🌱 I’m currently learning:
 
@@ -15,11 +19,7 @@ JavaScript
 
 ### 🔭 I’m currently working on:
 
-A challenge from Dribble. 
-<br>
-Done with the desktop landing page version. 
-<br>
-Now styling mobile version. 
+A CSS Animation Project
 
 ### 🤔 I’m looking for help with:
 

@@ -15,11 +15,11 @@ I've always had creative ideas, I honestly thought about going into graphic desi
 
 ### 🌱 I’m currently learning:
 
-JavaScript
+Modern JavaScript
 
 ### 🔭 I’m currently working on:
 
-A CSS Animation Project for fun.
+A CSS Animation Project
 
 ### 🤔 I’m looking for help with:
 

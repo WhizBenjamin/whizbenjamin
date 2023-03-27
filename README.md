@@ -19,7 +19,7 @@ JavaScript
 
 ### 🔭 I’m currently working on:
 
-A CSS Animation Project
+A CSS Animation Project for fun.
 
 ### 🤔 I’m looking for help with:
 

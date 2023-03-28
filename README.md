@@ -1,5 +1,5 @@
 ### Hello there, I'm Benjamin 👋
-Your friendly neighbourhood Web Developer!
+Your friendly neighbourhood Software Developer!
 
 ### About Me: 
 

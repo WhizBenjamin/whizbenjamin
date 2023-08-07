@@ -3,11 +3,11 @@ Your friendly neighbourhood Software Developer!
 
 ### About Me: 
 
-Well, I am still enroute to learning the art of web designing and this is me in my learning phase. So, here goes! 🤓
+Well, I am still enroute to learning the art of web development and this is me in my learning phase. So, here goes! 🤓
 
 ### 👨‍💻 Design & Development
 
-I have always had creative ideas. I honestly thought about going into graphic design but I found love at first site with programming and hey, who says I can't bring out my creativity here?
+I have always had creative ideas. I honestly thought about going into graphic designing but I found love at first site with programming and hey, who says I can't bring out my creativity here?
 <br>
 1. HTML5 ✔
 2. CSS ✔

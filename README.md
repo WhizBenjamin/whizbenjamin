@@ -20,7 +20,7 @@ Modern JavaScript
 ### 🔭 I’m currently working on:
 
 A CSS Animation Project
-br
+
 A Light and Dark Mode themed landing page
 
 ### 🤔 I’m looking for help with:
